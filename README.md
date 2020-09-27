@@ -14,6 +14,6 @@ program to help collect data for a project I want to build
    * If you made a paper gesture then press P to save the picture
    * If you made a scissor gesture then press C to save the picture
 * press esc to exit the program
-* click atleast 25 pictures and email the folder containing your pic at-
+* click atleast 25 pictures for each stone, paper , scissors in different positions possible (total 75) and email the folder containing your pic at-
     * adityakarn26@gmail.com or vinaydahiya04@gmail.com
   
